@@ -13,7 +13,7 @@
         Atom teszt. Atom teszt.
     </h1>
     <p>
-        This is a <strong>a ragraph</strong>.
+        Atom teszt. <strong>Atom teszt.</strong>.
     </p>
     <p>
         This <i>is a paragraph</i> .
