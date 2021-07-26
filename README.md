@@ -16,7 +16,7 @@
         Atom teszt. <strong>Atom teszt.</strong>.
     </p>
     <p>
-        This <i>is a paragraph</i> .
+        Atom teszt. <i>Atom teszt.</i> .
     </p>
 </body>
 
